@@ -5,6 +5,6 @@ no_menu_item: true # required only for this example website because of menu cons
 support: [jquery, gallery]
 ---
 
-This example shows how to include several galleries into one page. Also notice that some captions have been set.
+Pictures are taken by Krister
 
 {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 id_number=1 %}
