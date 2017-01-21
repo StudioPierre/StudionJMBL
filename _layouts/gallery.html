@@ -2,8 +2,18 @@
 layout: default
 support: [jquery, gallery]
 ---
-{% include nav.html  %}
+<div class="dt w-100 bg-light-gray">
 
-<h1 class="gallery-title">{{ page.title }}</h1>
+  <nav class="fl w-100 bg-white-80 cf">
+    <a href="/"><img src="/assets/images/logga/studionjmbl.png" alt="Studion JMBL"></a>
+  <div class="tc pa2 bg-white-80">
+    <a class="link dim gray f6 f3-ns dib mr2 mr4-m mr5-l" href="/portfolio/krister" title="Home">Krister Portfolio</a>
+    <a class="link dim gray f6 f3-ns dib" href="/portfolio/pierre" title="About">Pierre Portfolio</a>
+  </div>
+  </nav>
+</div>
+<!--<h1 class="gallery-title">{{ page.title }}</h1>-->
+<div class="dt w-100 bg-dark-gray">
 
 {{ content }}
+</div>
