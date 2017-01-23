@@ -1,4 +1,4 @@
-picture_path: ghent-light-festival/part1
+picture_path: ghent-light-festival
 preview:
   filename: Lichtfestival-0058
   original: Lichtfestival-0058-6000x4000.jpg
@@ -10,31 +10,27 @@ preview:
   title: Mageleinstraat
   caption: Our House Ghent by THEM Sculptures
 pictures:
-- filename: Lichtfestival-0012
-  original: Lichtfestival-0012-4000x6000.jpg
+- filename: F3Q0439.jpg
+  original: F3Q0439-3456x5184.jpg
   sizes:
-  - Lichtfestival-0012-1414x2121.jpg
-  - Lichtfestival-0012-1999x2999.jpg
-  - Lichtfestival-0012-2828x4242.jpg
-  thumbnail: Lichtfestival-0012-thumbnail.jpg
+  - F3Q0439-3456x5184.jpg
+  thumbnail: F3Q0439-thumbnail.jpg
   title: Boekentoren
   caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: Lichtfestival-0003
-  original: Lichtfestival-0003-6000x4000.jpg
+- filename: F3Q5544
+  original: F3Q5544-1200x1800.jpg
   sizes:
-  - Lichtfestival-0003-2121x1414.jpg
-  - Lichtfestival-0003-2999x1999.jpg
-  - Lichtfestival-0003-4242x2828.jpg
-  thumbnail: Lichtfestival-0003-thumbnail.jpg
+  - F3Q5544-1200x1800.jpg
+  thumbnail: F3Q5544-thumbnail.jpg
   title: Sint-Pietersplein
   caption: Urban keys by Dirty Monitor
-- filename: Lichtfestival-0132
-  original: Lichtfestival-0132-6000x4000.jpg
+- filename: F3Q5098
+  original: F3Q5098-1697x1200.jpg
   sizes:
   - Lichtfestival-0132-2121x1414.jpg
   - Lichtfestival-0132-2999x1999.jpg
   - Lichtfestival-0132-4242x2828.jpg
-  thumbnail: Lichtfestival-0132-thumbnail.jpg
+  thumbnail: F3Q5098-thumbnail.jpg
   title: Sint-Jorisbrug
   caption: °RAINRAINRAIN° by Bram Lemaire
 - filename: Lichtfestival-0202
