@@ -1,0 +1,5 @@
+- filename: bildensnamn
+  original: bildensnamn-6000x4000.jpg
+  sizes:
+  - bildensnamn-4242x2828.jpg
+  thumbnail: bildensnamn-thumbnail.jpg
