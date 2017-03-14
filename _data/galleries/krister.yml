@@ -1,5 +1,175 @@
-- filename: bildensnamn
-  original: bildensnamn-6000x4000.jpg
+picture_path: krister
+preview:
+  filename: VS-2012-5948
+  original: VS-2012-5948-6000x4000.jpg
   sizes:
-  - bildensnamn-4242x2828.jpg
-  thumbnail: bildensnamn-thumbnail.jpg
+  - VS-2012-5948-4242x2828.jpg
+  - VS-2012-5948-2121x1414.jpg
+  - VS-2012-5948-2999x1999.jpg
+  thumbnail: VS-2012-5948.jpg
+pictures:
+- filename: Large-001
+  original: Large-001.jpg
+  sizes:
+  - Medium-001.jpg
+  thumbnail: Small-001.jpg
+- filename: Large-002
+  original: Large-002.jpg
+  sizes:
+  - Medium-002.jpg
+  thumbnail: Small-002.jpg
+- filename: Large-003
+  original: Large-003.jpg
+  sizes:
+  - Medium-003.jpg
+  thumbnail: Small-003.jpg
+- filename: Large-031
+  original: Large-031.jpg
+  sizes:
+  - Medium-031.jpg
+  thumbnail: Small-031.jpg
+- filename: Large-004
+  original: Large-004.jpg
+  sizes:
+  - Medium-004.jpg
+  thumbnail: Small-004.jpg
+- filename: Large-005
+  original: Large-005.jpg
+  sizes:
+  - Medium-005.jpg
+  thumbnail: Small-005.jpg
+- filename: Large-006
+  original: Large-006.jpg
+  sizes:
+  - Medium-006.jpg
+  thumbnail: Small-006.jpg
+- filename: Large-007
+  original: Large-007.jpg
+  sizes:
+  - Medium-007.jpg
+  thumbnail: Small-007.jpg
+- filename: Large-008
+  original: Large-008.jpg
+  sizes:
+  - Medium-008.jpg
+  thumbnail: Small-008.jpg
+- filename: Large-009
+  original: Large-009.jpg
+  sizes:
+  - Medium-009.jpg
+  thumbnail: Small-009.jpg
+- filename: Large-010
+  original: Large-010.jpg
+  sizes:
+  - Medium-010.jpg
+  thumbnail: Small-010.jpg
+- filename: Large-011
+  original: Large-011.jpg
+  sizes:
+  - Medium-011.jpg
+  thumbnail: Small-011.jpg
+- filename: Large-012
+  original: Large-012.jpg
+  sizes:
+  - Medium-012.jpg
+  thumbnail: Small-012.jpg
+- filename: Large-013
+  original: Large-013.jpg
+  sizes:
+  - Medium-013.jpg
+  thumbnail: Small-013.jpg
+- filename: Large-014
+  original: Large-014.jpg
+  sizes:
+  - Medium-014.jpg
+  thumbnail: Small-014.jpg
+- filename: Large-015
+  original: Large-015.jpg
+  sizes:
+  - Medium-015.jpg
+  thumbnail: Small-015.jpg
+- filename: Large-016
+  original: Large-016.jpg
+  sizes:
+  - Medium-016.jpg
+  thumbnail: Small-016.jpg
+- filename: Large-017
+  original: Large-017.jpg
+  sizes:
+  - Medium-017.jpg
+  thumbnail: Small-017.jpg
+- filename: Large-018
+  original: Large-018.jpg
+  sizes:
+  - Medium-018.jpg
+  thumbnail: Small-018.jpg
+- filename: Large-019
+  original: Large-019.jpg
+  sizes:
+  - Medium-019.jpg
+  thumbnail: Small-019.jpg
+- filename: Large-020
+  original: Large-020.jpg
+  sizes:
+  - Medium-020.jpg
+  thumbnail: Small-020.jpg
+- filename: Large-021
+  original: Large-021.jpg
+  sizes:
+  - Medium-021.jpg
+  thumbnail: Small-021.jpg
+- filename: Large-022
+  original: Large-022.jpg
+  sizes:
+  - Medium-022.jpg
+  thumbnail: Small-022.jpg
+- filename: Large-023
+  original: Large-023.jpg
+  sizes:
+  - Medium-023.jpg
+  thumbnail: Small-023.jpg
+- filename: Large-024
+  original: Large-024.jpg
+  sizes:
+  - Medium-024.jpg
+  thumbnail: Small-024.jpg
+- filename: Large-025
+  original: Large-025.jpg
+  sizes:
+  - Medium-025.jpg
+  thumbnail: Small-025.jpg
+- filename: Large-026
+  original: Large-026.jpg
+  sizes:
+  - Medium-026.jpg
+  thumbnail: Small-026.jpg
+- filename: Large-027
+  original: Large-027.jpg
+  sizes:
+  - Medium-027.jpg
+  thumbnail: Small-027.jpg
+- filename: Large-028
+  original: Large-028.jpg
+  sizes:
+  - Medium-028.jpg
+  thumbnail: Small-028.jpg
+- filename: Large-029
+  original: Large-029.jpg
+  sizes:
+  - Medium-029.jpg
+  thumbnail: Small-029.jpg
+- filename: Large-030
+  original: Large-030.jpg
+  sizes:
+  - Medium-030.jpg
+  thumbnail: Small-030.jpg
+- filename: Large-032
+  original: Large-032.jpg
+  sizes:
+  - Medium-032.jpg
+  thumbnail: Small-032.jpg
+- filename: Large-033
+  original: Large-033.jpg
+  sizes:
+  - Medium-033.jpg
+  thumbnail: Small-033.jpg
